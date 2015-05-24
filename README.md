@@ -1,4 +1,4 @@
- #CleaningDataProject#
+ # CleaningDataProject
 
  This README files explains how the run_analysis.R is implemented
  to complete the project work
