@@ -61,6 +61,7 @@ mData1$Activity[mData1$Activity == 4] <- "SITTING"
 mData1$Activity[mData1$Activity == 5] <- "STANDING" 
 mData1$Activity[mData1$Activity == 6] <- "LAYING" 
 
+write.table(mData1, "project_step5_result.txt", row.name=FALSE)
 
 
 
